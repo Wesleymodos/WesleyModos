@@ -1,6 +1,17 @@
 ## - 👋 Olá, Sou @Wesleymodos
 <img src='https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif'>
 
+
+
+### Socials
+<div>
+<a href="https://www.dev.to/wesleymodos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/Wesleymodos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/wesleymodos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+    <a href="https://www.linkedin.com/in/wesley-modos-2281a158/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+    <a href="https://www.twitch.tv/wesleymodos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
+</div>
+
 ## - Conhecimento
 
 <div>

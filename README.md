@@ -1,5 +1,5 @@
 ## - 👋 Olá, Sou @Wesleymodos
-<img src='https://media.giphy.com/media/l4JzdwJ33hz12Gw6s/giphy.gif'>
+<img src='https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif'>
 
 ## - Conhecimento
 

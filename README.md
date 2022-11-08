@@ -41,4 +41,4 @@
 
 
 
-![Snake animation](https://github.com/wesleymodos/Wesleymodos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Wesleymodos/Wesleymodos/blob/output/github-contribution-grid-snake.svg)

@@ -34,11 +34,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"  width="40" height="40"/>
 
 
-## - Contatos
-
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wesleymodos&show_icons=true&count_private=true)](https://github.com/Wesleymodos)
 
 
 
 ![Snake animation](https://github.com/Wesleymodos/Wesleymodos/blob/output/github-contribution-grid-snake.svg)
+</div>

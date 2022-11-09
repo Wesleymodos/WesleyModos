@@ -1,4 +1,7 @@
-## - 👋 Olá, Sou @Wesleymodos
+## - 👋 Olá, Sou Wesley Modos, Apaixonado pela tecnologia e de desafios, apesar de não ter muito conhecimento sempre busco o aprendizado.
+Atualmente, formado em Getão T.I, Tecnologia em redes de computadores, e finalizando ADS - analise desenvolvimento de sistemas, onde trabalho em uma empresa (colégio Integral) onde se localiza em maringá atualdo como um infra cuidado de salas de aulas e tecnologias e servidores, estrutura do site em php + html + css +js, e Banco de dados em mysql(mariaDB) e estudo outras linguagens, como php e css.
+
+
 <img src='https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif'>
 
 
